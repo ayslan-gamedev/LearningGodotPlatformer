@@ -43,7 +43,6 @@ animations = [{
 }]
 
 [node name="Player" type="CharacterBody2D"]
-position = Vector2(392, 142)
 scale = Vector2(4, 4)
 script = ExtResource("1_06trg")
 
@@ -55,3 +54,4 @@ shape = SubResource("RectangleShape2D_rt6vq")
 position = Vector2(0, -8)
 sprite_frames = SubResource("SpriteFrames_muqf8")
 animation = &"idle"
+frame_progress = 0.97493

@@ -14,5 +14,10 @@ export_presets.cfg
 data_*/
 mono_crash.*.json
 
-# node modules
+# commitzen config 
 /node_modules/
+.czrc
+.cz-config.js 
+.package.json
+.package-lock.json
+
