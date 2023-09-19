@@ -20,4 +20,4 @@ mono_crash.*.json
 .cz-config.js 
 .package.json
 .package-lock.json
-
+cz-config.js
